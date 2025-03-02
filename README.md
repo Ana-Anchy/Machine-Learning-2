@@ -22,6 +22,7 @@ This project demonstrates a complete machine learning workflow for classifying h
    - **Random Forest**: Built an ensemble of decision trees on random subsets of data and features.
    - **Extra Trees**: Similar to Random Forest but introduces additional randomness in choosing split points.
    - **SVM**: Used an RBF kernel for nonlinear separation, which can yield high accuracy but may increase training time.
+   - **Linear Support Vector Classifier**
 
 4. **📊 Model Evaluation**
    - Trained each model on the training set, then compared performance on the validation set.

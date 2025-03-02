@@ -55,3 +55,6 @@ This project demonstrates a complete machine learning workflow for classifying h
 ### 🏆 SVM
 - Attempts to find the optimal hyperplane separating classes with maximum margin.
 - RBF kernel provides flexibility for complex boundaries but can be more computationally intensive.
+
+### Linear SVC
+
